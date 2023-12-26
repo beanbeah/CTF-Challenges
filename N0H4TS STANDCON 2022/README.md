@@ -1,0 +1,1 @@
+There are 2 more challenges that are not included, but their writeups can be found [here](https://github.com/div0-n0h4ts/STANDCON-CTF-2022-Writeups).

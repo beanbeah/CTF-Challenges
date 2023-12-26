@@ -1,0 +1,12 @@
+service haskell
+{
+	disable         = no
+	type            = UNLISTED
+	socket_type     = stream
+	protocol        = tcp
+	user            = haskell
+	wait            = no
+	port            = 8003
+	server          = /src
+	bind            = 0.0.0.0
+}
