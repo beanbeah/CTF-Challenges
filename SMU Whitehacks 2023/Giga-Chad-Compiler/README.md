@@ -38,7 +38,6 @@ Then run the following commands in EC2:
 When running `setup.sh`, it may prompt for input. Press `y` to proceed.
 After setup is successful, the line `Setup complete!` should be printed.
 
-Bot invite: <https://discord.com/api/oauth2/authorize?client_id=1082616098366701658&permissions=0&scope=bot>
 
 To restart the service (make sure `/home/ubuntu/main.py` is recreated first):
 `sudo systemctl stop main.service && /home/ubuntu/setup.sh`
